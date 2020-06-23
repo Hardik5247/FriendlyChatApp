@@ -51,6 +51,7 @@ dependencies {
     implementation 'com.android.support:support-v4:28.0.0'
     implementation 'com.google.firebase:firebase-auth:9.6.0'
     implementation 'com.firebaseui:firebase-ui-auth:0.6.0'
+    implementation 'com.google.firebase:firebase-storage:9.6.0'
 
 
 
