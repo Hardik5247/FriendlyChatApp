@@ -10,7 +10,10 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 
+import com.google.firebase.database.Query;
+
 import java.util.List;
+
 
 public class MessageAdapter extends ArrayAdapter<FriendlyMessage> {
     public MessageAdapter(Context context, int resource, List<FriendlyMessage> objects) {
